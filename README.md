@@ -20,7 +20,7 @@
 - 🧰 기술: `OpenAI API`, `LangChain`, `pandas`, `ChromaDB`, `PostgreSQL`
 - 📄 설명:  
   자연어로 조건을 입력하면 고령층 및 장애인을 위한 숙소를 추천해주는 RAG 기반 AI 시스템입니다.  
-- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Sliver_Stay_AI)
+- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/SliverStay_AIcode/tree/main)
 
 ---
 
