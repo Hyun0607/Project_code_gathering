@@ -45,6 +45,7 @@
   Kaggle에서 가져온 소득, 수면시간, 알코올 소비량, 식습관 등의 데이터를 기반으로 우울증 여부를 예측하기 위한 머신러닝 프로젝트 입니다.
 - 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Depression)
 
+---
 
 ## 5. 🍀 강원도 관광지 추천을 위한 키워드 기반 토픽 모델링 (데이터 분석 공모전)
 
@@ -56,6 +57,8 @@
   키워드 기반 LDA 토픽 모델링으로 사용자 선호 유형별 관광지 분류 및  
   키워드 입력 기반 추천 시스템을 구현한 공모전 프로젝트입니다.  
 - 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Gangwon-Tour-TopicModeling/tree/main)
+
+---
 
 ## 6. 🇺🇸 Utah State University_Team project (하계SW해외연수)
 
