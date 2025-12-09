@@ -61,10 +61,10 @@
 ## 6. 🇺🇸 Utah State University_Team project (하계SW해외연수)
 
 - 📅 2025.06 - 2025.07  
-- 🔧 역할: 관광지 리뷰 텍스트 정제 (불용어 제거, 명사 추출), 전처리 파이프라인 구축  
-- 🧰 기술: `Python`, `Mecab`, `LDA`, `pandas`, `matplotlib`  
-- 📄 설명: 
-   week1:미국 메이저리그(MLB)의 장기 기록 데이터를 활용하여 **선수·팀의 시대별 성과 패턴을 분석한 데이터 시각화 프로젝트**입니다.
-   week2:총 **2,008,874개의 URL 데이터**를 기반으로 정상/피싱 URL을 구분하는 **Logistic Regression 기반 분류 모델**을 구축한 프로젝트입니다.
-   week3:Kaggle Airline Passenger Satisfaction dataset을 활용해 **승객 만족 여부(만족/불만족)를 예측하는 분류 모델을 구축한 프로젝트**입니다.
+- 🔧 역할: 데이터 시각화, 모델링, 변수 중요도 분석
+- 🧰 기술: `Python`, `scikit-learn`, `Randomforest`, `XGBoost`, `matplotlib`  
+- 📄 설명:
+ - week1:미국 메이저리그(MLB)의 장기 기록 데이터를 활용하여 **선수·팀의 시대별 성과 패턴을 분석한 데이터 시각화 프로젝트**입니다.
+ - week2:총 **2,008,874개의 URL 데이터**를 기반으로 정상/피싱 URL을 구분하는 **Logistic Regression 기반 분류 모델**을 구축한 프로젝트입니다.
+ - week3:Kaggle Airline Passenger Satisfaction dataset을 활용해 **승객 만족 여부(만족/불만족)를 예측하는 분류 모델을 구축한 프로젝트**입니다.
 - 🔗 GitHub: [프로젝트 상세설명]()
