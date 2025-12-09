@@ -1,5 +1,5 @@
  
->**아래에는 제가 직접 수행한 주요 프로젝트 별 코드 모음집 입니다.**
+##**아래에는 제가 직접 수행한 주요 프로젝트 별 코드 모음집 입니다.**
 
 <br />
 
@@ -12,8 +12,6 @@
 - 🧰 기술: `matplotlib`, `scikit-learn`, `Randomforest`, `XGBoost`, `SHAP`  
 - 📄 설명:  
   Spotify가 Kaggle을 통해 제공한 곡별 오디오 특성과 인기점수 데이터를 활용하여 인기 여부(60점 이상)를 이진분류하는 머신러닝 프로젝트입니다.  
-  데이터 전처리(컬럼 정리, 로그 변환, 스케일링, VIF 검증)를 거친 후, Logistic Regression, Random Forest, XGBoost, SVM 모델을 학습·평가하였으며, 평가기준은 AUC 및 F1-score를 기준으로 성능을 비교했습니다.  
-  또한 XGBoost + SHAP 분석을 통해 인기곡 예측에 영향을 미치는 핵심 특성(loudness, energy, danceability 등)을 도출했습니다.
 - 🔗 GitHub: [프로젝트 상세설명](https://github.com/Hyun0607/Spotify-hit-song-prediction)
 
 ## 2. 👫 고령층·장애인 맞춤 숙소 추천 서비스 (캡스톤 디자인)
@@ -23,8 +21,6 @@
 - 🧰 기술: `OpenAI API`, `LangChain`, `pandas`, `ChromaDB`, `PostgreSQL`
 - 📄 설명:  
   자연어로 조건을 입력하면 고령층 및 장애인을 위한 숙소를 추천해주는 RAG 기반 AI 시스템입니다.  
-  사용자의 질의와 유사한 예상질의를 벡터로 검색하고, 정형정보(RDB)를 연동하여 GPT가 응답을 생성합니다.  
-  또한 TF-IDF 기반 핵심어 레이블을 통해 성능을 자동 평가하는 파이프라인도 구축했습니다.
 - 🔗 GitHub: [프로젝트 상세설명](https://github.com/Hyun0607/Sliver_Stay_AI)
 
 ---
@@ -36,8 +32,6 @@
 - 🧰 기술: `OpenAI API`, `TF-IDF`, `GPT-4o`, `pandas`, `RAG 평가 자동화`  
 - 📄 설명:  
   LLM을 활용해 숙소 설명 기반 예상 질의를 생성하고, 이를 벡터로 임베딩하여 RAG 검색에 활용한 연구입니다.  
-  TF-IDF 기반 핵심어를 정답 기준으로 사용하고, 자동 평가 파이프라인을 구축하여 정량적 성능 비교를 수행했습니다.  
-  예상 질의 기반 벡터화 방식이 기존 개요 기반 방식보다 높은 정확도를 보임을 입증했습니다.
 - 🔗 GitHub: [논문 상세설명](https://github.com/Hyun0607/LLM-RAG-Q-Research)
 
 ---
@@ -48,10 +42,7 @@
 - 🔧 역할: 데이터 전처리, 모델링 기획 및 구현
 - 🧰 기술: `R`, `caret`, `rpart`, `randomForest`, `ggplot2`  
 - 📄 설명:  
-  Kaggle에서 가져온 소득, 수면시간, 알코올 소비량, 식습관 등의 데이터를 기반으로  
-  우울증 여부를 예측하기 위한 머신러닝 모델(로지스틱 회귀, 결정트리, 랜덤포레스트)을 비교 분석.  
-  주요 변수 시각화 및 변수 중요도 분석을 통해 인사이트를 도출하고,  
-  실제 예측 성능을 기반으로 최적 모델을 선정하여 보고서를 작성함.  
+  Kaggle에서 가져온 소득, 수면시간, 알코올 소비량, 식습관 등의 데이터를 기반으로 우울증 여부를 예측하기 위한 머신러닝 프로젝트 입니다.
 - 🔗 GitHub: [프로젝트 상세설명](https://github.com/Hyun0607/Depression)
 
 ---
@@ -67,10 +58,13 @@
   키워드 입력 기반 추천 시스템을 구현한 공모전 프로젝트입니다.  
 - 🔗 GitHub: [프로젝트 상세설명](https://github.com/Hyun0607/Gangwon-Tour-TopicModeling/tree/main)
 
----
+## 6. 🇺🇸 Utah State University_Team project (하계SW해외연수)
 
-# 📫 Contact
-
-- Email: **lovearamis3@gmail.com**
-- GitHub: [github.com/Hyun0607](https://github.com/Hyun0607)
-
+- 📅 2025.06 - 2025.07  
+- 🔧 역할: 관광지 리뷰 텍스트 정제 (불용어 제거, 명사 추출), 전처리 파이프라인 구축  
+- 🧰 기술: `Python`, `Mecab`, `LDA`, `pandas`, `matplotlib`  
+- 📄 설명: 
+   week1:미국 메이저리그(MLB)의 장기 기록 데이터를 활용하여 **선수·팀의 시대별 성과 패턴을 분석한 데이터 시각화 프로젝트**입니다.
+   week2:총 **2,008,874개의 URL 데이터**를 기반으로 정상/피싱 URL을 구분하는 **Logistic Regression 기반 분류 모델**을 구축한 프로젝트입니다.
+   week3:Kaggle Airline Passenger Satisfaction dataset을 활용해 **승객 만족 여부(만족/불만족)를 예측하는 분류 모델을 구축한 프로젝트**입니다.
+- 🔗 GitHub: [프로젝트 상세설명]()
