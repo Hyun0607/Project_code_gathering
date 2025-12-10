@@ -8,7 +8,7 @@
 - 🔧 역할: 데이터 전처리 및 머신러닝 모델 구축, 변수 중요도 분석  
 - 🧰 기술: `matplotlib`, `scikit-learn`, `Randomforest`, `XGBoost`, `SHAP`  
 - 📄 설명:  
-  Spotify가 Kaggle을 통해 제공한 곡별 오디오 특성과 인기점수 데이터를 활용하여 인기 여부(60점 이상)를 이진분류하는 머신러닝 프로젝트입니다.  
+  Spotify가 Kaggle을 통해 제공한 곡별 오디오 특성과 인기점수 데이터를 활용하여 인기 여부(60점 이상)를 예측하는 머신러닝 프로젝트입니다.  
 - 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Spotify-hit-song-prediction_code)
 
   ---
@@ -19,7 +19,7 @@
 - 🔧 역할: AI/데이터 구축 담당 (데이터 임베딩, 벡터DB 구축, GCP RDB 연동, LLM API 사용)  
 - 🧰 기술: `OpenAI API`, `LangChain`, `pandas`, `ChromaDB`, `PostgreSQL`
 - 📄 설명:  
-  자연어로 조건을 입력하면 고령층 및 장애인을 위한 숙소를 추천해주는 RAG 기반 AI 시스템입니다.  
+  자연어로 조건을 입력하면 고령층 및 장애인을 위한 숙소를 추천해주는 RAG 기반 AI 서비스입니다.  
 - 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/SliverStay_AIcode/tree/main)
 
 ---
