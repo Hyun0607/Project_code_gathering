@@ -31,7 +31,7 @@
 - 🧰 기술: `OpenAI API`, `TF-IDF`, `GPT-4o`, `pandas`, `RAG 평가 자동화`  
 - 📄 설명:  
   LLM을 활용해 숙소 설명 기반 예상 질의를 생성하고, 이를 벡터로 임베딩하여 RAG 검색에 활용한 연구입니다.  
-- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/LLM-RAG-Q-Research)
+- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/LLM-RAG-Q-Researchcode)
 
 ---
 
