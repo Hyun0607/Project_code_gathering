@@ -9,7 +9,7 @@
 - 🧰 기술: `matplotlib`, `scikit-learn`, `Randomforest`, `XGBoost`, `SHAP`  
 - 📄 설명:  
   Spotify가 Kaggle을 통해 제공한 곡별 오디오 특성과 인기점수 데이터를 활용하여 인기 여부(60점 이상)를 이진분류하는 머신러닝 프로젝트입니다.  
-- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Spotify-hit-song-prediction)
+- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Spotify-hit-song-prediction_code)
 
   ---
 
