@@ -68,4 +68,4 @@
  - week1:미국 메이저리그(MLB)의 장기 기록 데이터를 활용하여 **선수·팀의 시대별 성과 패턴을 분석한 데이터 시각화 프로젝트**입니다.
  - week2:총 **2,008,874개의 URL 데이터**를 기반으로 정상/피싱 URL을 구분하는 **Logistic Regression 기반 분류 모델**을 구축한 프로젝트입니다.
  - week3:Kaggle Airline Passenger Satisfaction dataset을 활용해 **승객 만족 여부(만족/불만족)를 예측하는 분류 모델을 구축한 프로젝트**입니다.
-- 🔗 GitHub: [코드 보러가기]()
+- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Utah-State-University_code)
