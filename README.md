@@ -55,7 +55,7 @@
   구글맵·네이버지도 리뷰 데이터를 수집해 강원도 24개 관광지를 분석하고,  
   키워드 기반 LDA 토픽 모델링으로 사용자 선호 유형별 관광지 분류 및  
   키워드 입력 기반 추천 시스템을 구현한 공모전 프로젝트입니다.  
-- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Gangwon-Tour-TopicModeling/tree/main)
+- 🔗 GitHub: [코드 보러가기](https://github.com/Hyun0607/Gangwon-Tour-TopicModeling_code/tree/main)
 
 ---
 
